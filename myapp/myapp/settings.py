@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 	'candidateapp',
-	'phonenumber_field']
+	'phonenumber_field',
+	'localflavor',]
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',

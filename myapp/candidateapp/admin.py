@@ -7,4 +7,5 @@ class StudentAdmin(admin.ModelAdmin):
 admin.site.register(Candidate,CandidateAdmin)
 admin.site.register(Student,StudentAdmin)
 
+
 # Register your models here.
